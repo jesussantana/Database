@@ -1,5 +1,5 @@
 # [IT Academy - Data Science with Python](https://www.barcelonactiva.cat/es/itacademy)
-## [S17 T01: Database](https://github.com/jesussantana/Web-Scraping/blob/main/notebooks/S17_T01_Database.ipynb)
+## [S17 T01: Database](https://github.com/jesussantana/Database/blob/main/notebooks/S17_T01_Database.ipynb)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
