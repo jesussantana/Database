@@ -12,7 +12,7 @@ reate a relational model and entity-relationship diagram.
 
 ### Level 1
 
-- Exercici 1  
+- Exercise 1  
 
 Create a sample relational database using a text or handwritten document. Design it to contain the following tables, and establish the relationships you deem necessary between them:
 
