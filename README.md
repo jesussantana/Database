@@ -14,25 +14,25 @@ reate a relational model and entity-relationship diagram.
 
 - Exercici 1  
 
-Create a relational base d’exemple using a text document or me. Dissenya-la perquè contingui les següents taules, and establishes the relationships that you consider necessary between them:
+Create a sample relational database using a text or handwritten document. Design it to contain the following tables, and establish the relationships you deem necessary between them:
 
 - Table of purchases (transactions)
 
-- Taula d'establiments
+- Table of establishments
 
-- Taula de treballadors
+- Table of workers
 
-- Taula of clients
+- Table of clients
 
-- Taula de productes
+- Table of products
 
-- Taula de tipus de productes
+- Product type table
 
-Defineix the properties of the relationships (1: 1, 1: n, n: n), and create some of the variables that could contain, for example:
+Defines the properties of the relationships (1: 1, 1: n, n: n), and create some of the variables that could contain, for example:
 
 
 
-Taula d'establiments
+Table of establishments
 
 - IDestabliment (unique key)
 
